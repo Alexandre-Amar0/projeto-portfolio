@@ -1,0 +1,16 @@
+.btnA {
+    background-color: #74FAC0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.btnA:hover {
+    background-color: #010B28;
+    color: white;
+    transition-duration: 0.3s;
+    transform: translateY(-7px);
+    cursor: pointer;
+}
